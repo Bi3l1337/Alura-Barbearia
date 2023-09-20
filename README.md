@@ -1,3 +1,3 @@
 Alura
-![](file:///home/pedagogico/Downloads/biel/produtos.html
-)
+![](file:///home/pedagogico/Downloads/biel/produtos.html)
+
